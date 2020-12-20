@@ -48,7 +48,7 @@
         <tag-expressions.version>2.0.2</tag-expressions.version>
 
         <!--Test Dependencies-->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <junit-jupiter.version>5.5.1</junit-jupiter.version>
         <junit-platform.version>1.5.1</junit-platform.version>
         <hamcrest.version>2.1</hamcrest.version>
